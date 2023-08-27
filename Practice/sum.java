@@ -1,6 +1,7 @@
+package Practice;
 import java.util.Scanner;
 
-public class prac {
+public class sum {
     public static void main(String[] args) {
         System.out.println("helow world");
         Scanner sc = new Scanner(System.in);
