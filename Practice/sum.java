@@ -10,5 +10,7 @@ public class sum {
         int no2 = sp.nextInt();
         int sum = no1 + no2;
         System.out.println(sum);
-    }
+     }
 }
+
+// https://youtu.be/ZetV2hmU-pQ?si=BX5jAmxkDIZ7TC2X
