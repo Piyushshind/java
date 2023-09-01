@@ -10,7 +10,7 @@ public class sum {
         Scanner sp = new Scanner(System.in);
         int no2 = sp.nextInt();
         int sum = no1 + no2;
-        System.out.println(sum);
+         System.out.println(sum);
     }
 }
 
