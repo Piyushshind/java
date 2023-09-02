@@ -14,4 +14,3 @@ public class sum {
     }
 }
 
-// https://youtu.be/ZetV2hmU-pQ?si=BX5jAmxkDIZ7TC2X
