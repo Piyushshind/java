@@ -13,4 +13,3 @@ public class sum {
         System.out.println(sum);
     }
 }
-
