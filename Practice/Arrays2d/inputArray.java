@@ -1,5 +1,5 @@
 package Practice.Arrays2d;
-
+import java.util.*;
 import java.util.Scanner;
 
 public class inputArray {
