@@ -13,6 +13,8 @@ public class findmax {
         int min = arr[0];
 
         for (int i = 1; i < 5; i++) {
+            // max = arr[i] > max ? arr[i] : arr[i + 1];
+            // min = arr[i] < min ? arr[i] : arr[i + 1];
             if (arr[i] > max) {
                 max = arr[i];
             }
