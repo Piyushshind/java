@@ -1,5 +1,4 @@
-package Practice.Arrays2d;
-import java.util.*;
+// package Practice.Arrays2d;
 import java.util.Scanner;
 
 public class inputArray {
@@ -18,7 +17,8 @@ public class inputArray {
 
          for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
-                System.out.print(numbers[i][j] + " ");
+
+                System.out.print(numbers[i][j] + "  ");
             }
             System.out.println();
         }
